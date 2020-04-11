@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/outside/static/css/main.219a3c7d.chunk.css",
-    "main.js": "/outside/static/js/main.ca5925c7.chunk.js",
-    "main.js.map": "/outside/static/js/main.ca5925c7.chunk.js.map",
+    "main.css": "/outside/static/css/main.e64573ee.chunk.css",
+    "main.js": "/outside/static/js/main.e3da9e36.chunk.js",
+    "main.js.map": "/outside/static/js/main.e3da9e36.chunk.js.map",
     "runtime-main.js": "/outside/static/js/runtime-main.26bb66fa.js",
     "runtime-main.js.map": "/outside/static/js/runtime-main.26bb66fa.js.map",
     "static/css/2.47e06e2e.chunk.css": "/outside/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.d9a9ccfa.chunk.js": "/outside/static/js/2.d9a9ccfa.chunk.js",
-    "static/js/2.d9a9ccfa.chunk.js.map": "/outside/static/js/2.d9a9ccfa.chunk.js.map",
+    "static/js/2.a16fce3e.chunk.js": "/outside/static/js/2.a16fce3e.chunk.js",
+    "static/js/2.a16fce3e.chunk.js.map": "/outside/static/js/2.a16fce3e.chunk.js.map",
     "index.html": "/outside/index.html",
-    "precache-manifest.1c10f5114d12be759bb7ce867d35eeca.js": "/outside/precache-manifest.1c10f5114d12be759bb7ce867d35eeca.js",
+    "precache-manifest.a288660128678acfb3dc4bc13022bd23.js": "/outside/precache-manifest.a288660128678acfb3dc4bc13022bd23.js",
     "service-worker.js": "/outside/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/outside/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.219a3c7d.chunk.css.map": "/outside/static/css/main.219a3c7d.chunk.css.map",
-    "static/js/2.d9a9ccfa.chunk.js.LICENSE.txt": "/outside/static/js/2.d9a9ccfa.chunk.js.LICENSE.txt",
+    "static/css/main.e64573ee.chunk.css.map": "/outside/static/css/main.e64573ee.chunk.css.map",
+    "static/js/2.a16fce3e.chunk.js.LICENSE.txt": "/outside/static/js/2.a16fce3e.chunk.js.LICENSE.txt",
     "static/media/colorsPNG.png": "/outside/static/media/colorsPNG.e85e2199.png",
     "static/media/girlBar.jpg": "/outside/static/media/girlBar.585ac8f1.jpg",
     "static/media/ImageBar.scss": "/outside/static/media/imageBar1.9853af26.jpg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.26bb66fa.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.d9a9ccfa.chunk.js",
-    "static/css/main.219a3c7d.chunk.css",
-    "static/js/main.ca5925c7.chunk.js"
+    "static/js/2.a16fce3e.chunk.js",
+    "static/css/main.e64573ee.chunk.css",
+    "static/js/main.e3da9e36.chunk.js"
   ]
 }
